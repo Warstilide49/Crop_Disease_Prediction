@@ -4,12 +4,16 @@ Blockchain based prediction services for crop diseases using Flask and web3.py
 This is an implementation of a project paper which can be found in the repo.
 
 The python packages required are as follows:
+
 ->For backend and frontent management:			flask
+
 ->For setting up deep learning network:		      	tensorflow
 						      	numpy
 							opencv-python
 							keras
+							
 ->For connecting to ipfs api:			        ipfshttpclient
+
 ->For deploying and interacting with contracts:		web3
 						        py-solc-x
 
