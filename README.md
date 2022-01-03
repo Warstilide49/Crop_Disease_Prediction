@@ -7,9 +7,9 @@ The python packages required are as follows:
 
 ->For backend and frontent management:			flask
 
-->For setting up deep learning network:		      	tensorflow
-						      	numpy
-							opencv-python
+->For setting up deep learning network:		      	tensorflow,
+						      	numpy,
+							opencv-python,
 							keras
 							
 ->For connecting to ipfs api:			        ipfshttpclient
