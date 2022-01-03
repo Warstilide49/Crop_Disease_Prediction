@@ -14,7 +14,7 @@ The python packages required are as follows:
 							
 ->For connecting to ipfs api:			        ipfshttpclient
 
-->For deploying and interacting with contracts:		web3
+->For deploying and interacting with contracts:		web3,
 						        py-solc-x
 
 Setting up the project:
